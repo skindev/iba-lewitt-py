@@ -91,9 +91,6 @@ Six Superimposed Geometric Figures.
 Wall Drawing #356
 Isometric figures outlined by three-inch (7.5 cm) bands. Within each plane are three in. (7.5 cm) wide black bands of parallel lines in one of three directions.
 
-Wall Drawing #356 BB.
-Isometric figure within which are 3" (7.5 cm) wide black lines in three directions.
-
 Wall Drawing #380
 Isometric figures drawn in color and India ink washes, each with a six-inch (15 cm) India ink wash border. 
 
@@ -115,12 +112,10 @@ Continuous forms with an irregular black grid.
 Wall Drawing #766 (1994)
 21 Isometric cubes of varying sizes, each with color ink washes superimposed.
 
-Wall Drawing # 811 (1996)
-Project for Franklin Furnace.
-Size of space: 16' x 18'7".
+Wall Drawing #811 (1996)
 A square of 14' divided horizontally into two equal parts. The top half matte black. The bottom half glossy black.
 
-Wall Drawing #917 (1999): 
+Wall Drawing #917 (1999)
 Arcs and Circles.
 
 Wall Drawing #935 (1999)
@@ -135,7 +130,7 @@ Various shapes in color.
 Wall Drawing #938 (1999)
 Flat Top Pyramid.
 
-Wall Drawing # 1103 (2003)
+Wall Drawing #1103 (2003)
 Color vertical and horizontal broken bands.
 
 Wall Drawing #1113 (2003)
@@ -154,13 +149,10 @@ Wall Drawing #118 (1971)
 Fifty randomly placed points connected by straight lines.
 
 Wall Drawing #141 (1972)
-Progressive lines (straight and not straight).
-A ten-inch grid covering the wall. An increasing number of vertical straight lines from left to right, and
-horizontal not straight lines from bottom to top. 
+Progressive lines (straight and not straight). A ten-inch grid covering the wall. An increasing number of vertical straight lines from left to right, and horizontal not straight lines from bottom to top.
 
 Wall Drawing #273 (1975) 
-Lines to points on a grid. A six-inch (15 cm) grid covering the wall. Lines from the corners, sides, and center of the walls to random points on the grid. Composite (seventh wall): red lines from the midpoints of four sides, blue lines from four
-corners, yellow lines from the center. 
+Lines to points on a grid. A six-inch (15 cm) grid covering the wall. Lines from the corners, sides, and center of the walls to random points on the grid. Composite (seventh wall): red lines from the midpoints of four sides, blue lines from four corners, yellow lines from the center.
 
 Wall Drawing #171 (1973) 
 A line through the center of the wall toward the upper left corner and a line from the center of the wall to the upper right corner. 
@@ -168,16 +160,14 @@ A line through the center of the wall toward the upper left corner and a line fr
 Wall Drawing #235 (1974) 
 The location of three points.
 
-Wall Drawing #248 (1975) The location of a straight, not straight and a broken line, a square,
-a triangle and a circle. (The specific locations are determined by the draftsman.) 
+Wall Drawing #248 (1975)
+The location of a straight, not straight and a broken line, a square, a triangle and a circle. (The specific locations are determined by the draftsman.)
 
 Wall Drawing #271 (1975) 
 Black circles, red grid, yellow arcs from four corners, blue arcs from the midpoints of four sides. (ACG 195)
 
 Wall Drawing #136 (1972)
-Arcs and lines. Two lines crossing. A 36-inch (90 cm) grid covering the
-wall. All possibilities of two lines crossing using arcs from corners and sides, straight lines,
-not straight lines, and broken lines. Two lines in each 36-inch (90 cm) square.
+Arcs and lines. Two lines crossing. A 36-inch (90 cm) grid covering the wall. All possibilities of two lines crossing using arcs from corners and sides, straight lines, not straight lines, and broken lines. Two lines in each 36-inch (90 cm) square.
 
 Wall Drawing #50 A (1970)
 A wall divided into four parts by lines drawn from corner to corner. Each section with three different colors made of parallel lines superimposed. Color pencil. Dimensions variable.
