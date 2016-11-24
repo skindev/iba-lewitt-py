@@ -2,11 +2,11 @@ import pandas as pd
 import os
 import collections
 
-# import data
-import data.data
+
+from data.data import Data
 
 
-class CSVCorpus(data.data.Data):
+class CSVCorpus(Data):
     """
     CSV Corpus
     """
@@ -43,13 +43,3 @@ class CSVCorpus(data.data.Data):
             result = None
 
         return result
-
-if __name__ == "__main__":
-
-    file_path = '/Users/skin/repository/iba-lewitt-py/docs/lewitt-corpus/wall_drawing_corpus.csv'
-    corpus = CSVCorpus(file_path)
-
-    query_instruction_list = [20, 37, 123123123]
-
-    response = corpus.get_instruction(query_instruction_list)
-    print(response)
