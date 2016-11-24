@@ -1,8 +1,9 @@
 import os
 import unittest
+
 import pandas as pd
 
-from data.csv_file import CSVCorpus
+from data.handlers.csv_file import CSVCorpus
 
 
 class CSVCorpusTests(unittest.TestCase):
@@ -11,7 +12,7 @@ class CSVCorpusTests(unittest.TestCase):
     """
 
     def setUp(self):
-        self.csv_file_path = '/Users/skin/repository/iba-lewitt-py/docs/lewitt-corpus/wall_drawing_corpus.csv'
+        self.csv_file_path = '../data/corpus/wall_drawing_corpus.csv'
         self.assertTrue(os.path.exists(self.csv_file_path))
 
         # valid and invalid lewitt instructions
