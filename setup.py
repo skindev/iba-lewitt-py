@@ -3,6 +3,10 @@ try:
 except ImportError:
     from distutils.core import setup
 
+# read the contents of the requirements.txt file
+with open('requirements.txt') as f:
+    requirements = f.read().splitlines()
+
 config = {
     'author': 'Andrew and Shamin',
     'author_email': 'skin.dev.null@gmail.com',
@@ -11,7 +15,7 @@ config = {
     'packages': ['iba'],    
     'version': '0.1',
     'download_url': 'Where to download it.',
-    'install_requires': ['nose'],
+    'install_requires': 'requirements',
     'scripts': [],
     'classifiers': [
         "Programming Language :: Python",
