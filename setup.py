@@ -12,7 +12,7 @@ config = {
     'author_email': 'skin.dev.null@gmail.com',
     'description': 'IBA Lewitt',    
     'name': 'iba_lewitt_py',    
-    'packages': ['iba'],    
+    'packages': ['iba', 'data'],
     'version': '0.1',
     'download_url': 'Where to download it.',
     'install_requires': 'requirements',
