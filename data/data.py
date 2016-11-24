@@ -3,7 +3,7 @@ from abc import ABCMeta
 
 class Data(metaclass=ABCMeta):
     """
-
+    Data/Corpus Abstract Base Class.
     """
 
     def get_instruction(self, drawing_list):
@@ -15,5 +15,3 @@ class Data(metaclass=ABCMeta):
         """
 
         # assert(drawing_list, isinstance(drawing_list, 'list'))
-
-
