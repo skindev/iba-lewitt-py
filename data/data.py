@@ -62,13 +62,13 @@ class SQLiteHandler(Data):
 
     def get_instruction(self, drawing_ids, **kwargs):
         """
+        Get an instruction from the Lewitt Corpus
 
-        :param drawing_ids:
+        :param drawing_ids: tuple of drawing ids
         :param kwargs:
-        :return:
+        :return:            tuple or None
         """
 
-        print(drawing_ids)
         if not isinstance(drawing_ids, tuple):
             raise ValueError
 
@@ -83,14 +83,17 @@ class SQLiteHandler(Data):
             raise sqlite3.ProgrammingError
 
         with self.connection:
-            for row in self.cursor.execute(query_statement):
-                yield row
+            try:
+                for row in self.cursor.execute(query_statement):
+                    yield row
+            except sqlite3.Error as error:
+                return None
+
 
 if __name__ == "__main__":
     handler = SQLiteHandler('/Users/skin/repository/iba-lewitt-py/data/lewitt_corpus.db')
 
-    drawing_ids = None
-    # drawing_ids = (11, 16,)
+    drawing_ids = (11, 45, 97, 1180)
 
     for i in handler.get_instruction(drawing_ids, instruction_table='instructions'):
         print(i)
